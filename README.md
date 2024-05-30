@@ -8,6 +8,8 @@
   
 </div>
 
+<h1>Course Information</h1>
+
 <!--Course Information-->
 <div>
    <h2>Course Description</h2>
@@ -28,9 +30,46 @@
    <p>After completing this course, you will be able to develop advanced Android applications using Jetpack Compose expertly. You will have a deep knowledge of modern UI design, data management, performance optimization and more.</p>
 </div>
 
+<!--Course Applications -->
+<h1> Course Applications </h1>
+
+<!-- KOLAY -->
+<details>
+  <summary><h2> 🟢 Easy Mode 🟢 </h2></summary>
+  <ul>
+    <li><h3><a href="https://github.com/icanerdogan/Jetpack-Compose-Project-Samples/tree/main/Portfolio%20App">Portfolio App</a></h3></li>
+    <li><h3><a href="https://github.com/icanerdogan/Jetpack-Compose-Project-Samples/tree/main/Money%20Counter%20App">Money Counter App</a></h3></li>
+    <li><h3><a href="https://github.com/icanerdogan/Jetpack-Compose-Project-Samples/tree/main/Tip%20Calculator%20App">Tip Calculator App</a></h3></li>
+    <li><h3><a href="https://github.com/icanerdogan/Jetpack-Compose-Project-Samples/tree/main/Basic%20Movie%20Library%20App">Basic Movie App</a></h3></li>
+  </ul>
+</details>
+
+<!-- ORTA -->
+<details>
+  <summary><h2> 🟡 Normal Mode 🟡 </h2></summary>
+  <ul>
+    <li><h3><a href="https://github.com/icanerdogan/Jetpack-Compose-Project-Samples/tree/main/Unit%20Converter%20App">Unit Converter App</a></h3></li>
+    <li><h3><a href="https://github.com/icanerdogan/Jetpack-Compose-Project-Samples/tree/main/Contacts%20App">Contacts App</a></h3></li>
+    <li><h3><a href="https://github.com/icanerdogan/Jetpack-Compose-Project-Samples/tree/main/Notepad%20App">Notepad App</a></h3></li>
+    <li><h3><a href="https://github.com/icanerdogan/Jetpack-Compose-Project-Samples">Q&A App - Coming Soon!</a></h3></li>
+    <li><h3><a href="https://github.com/icanerdogan/Jetpack-Compose-Project-Samples/tree/main/Calculator%20App">Calculator App</a></h3></li>
+  </ul>
+</details>
+
+
+<!-- ZOR -->
+<details>
+  <summary><h2> 🔴 Hard Mode 🔴 </h2></summary>
+  <ul>
+    <li><h3><a href="https://github.com/icanerdogan/Jetpack-Compose-Project-Samples/tree/main/Crypto%20App">Crypto App</a></h3></li>
+    <li><h3><a href="https://github.com/icanerdogan/Jetpack-Compose-Project-Samples">Advanced Movie App - Coming Soon!</a></h3></li>
+    <li><h3><a href="https://github.com/icanerdogan/Jetpack-Compose-Project-Samples">News API App - Coming Soon!</a></h3></li>
+  </ul>
+</details>
+
 <!--Instructor-->
 <div>
-   <h2>Instructor</h2>
+   <h1>Instructor</h1>
    <p>
      Hello,
      I am İbrahim Can Erdoğan, I graduated from Balıkesir University, Department of Industrial Engineering in 2022. I develop advanced Android applications with Java and Kotlin. My work in the field of Android   
